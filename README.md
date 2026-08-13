@@ -17,5 +17,5 @@ Using the keyboard is simple: just connect it to your computer and start typing.
 Attach the screen to take notes directly on the digital notebook.
 
 ## License
--*cc by-nc-sa 4.0*
--full licence link: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+- *cc by-nc-sa 4.0*
+- full licence link: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

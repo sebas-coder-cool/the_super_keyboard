@@ -19,27 +19,7 @@ Attach the screen to take notes directly on the digital notebook.
 
 ## bom
 
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"A1";"RaspberryPi_Pico_Common_Unspecified";1;"RaspberryPi_Pico";;;
-2;"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D80, D81, D82, D83, D84, D85, D86, D87";"D_SOD-123F";87;"D";;;
-3;"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW23, SW24, SW25, SW26, SW27, SW28, SW29, SW31, SW32, SW33, SW35, SW36, SW37, SW38, SW39, SW40, SW41, SW42, SW43, SW44, SW45, SW46, SW48, SW49, SW50, SW52, SW53, SW54, SW55, SW56, SW57, SW58, SW59, SW60, SW61, SW62, SW65, SW66, SW67, SW68, SW69, SW70, SW71, SW72, SW73, SW74, SW76, SW85, SW86, SW87";"SW_Cherry_MX_PCB_1.00u";72;"SW_Push";;;
-4;"SW30";"SW_Cherry_MX_PCB_2.00u";1;"SW_Push";;;
-5;"SW34, SW47";"SW_Cherry_MX_PCB_1.50u";2;"SW_Push";;;
-6;"SW51";"SW_Cherry_MX_PCB_1.75u";1;"SW_Push";;;
-7;"SW63, SW64";"SW_Cherry_MX_PCB_2.25u";2;"SW_Push";;;
-8;"SW75";"SW_Cherry_MX_PCB_2.75u";1;"SW_Push";;;
-9;"SW77, SW78, SW79, SW81, SW82, SW83, SW84";"SW_Cherry_MX_PCB_1.25u";7;"SW_Push";;;
-10;"SW80";"SW_Cherry_MX_PCB_6.25u";1;"SW_Push";;;
-11;"U1";"ER_OLEDM0.91_1x-I2C";1;"ER_OLEDM0.91_1x-I2C";;;
-
-rp screen: https://www.tme.eu/nl/details/sc1975/raspberry-pi-accessoires/raspberry-pi/raspberry-pi-touch-display-2-5-portrait/
-pogo pins: https://www.amazon.com/gp/product/B0CSX6F5JM/ref=ox_sc_act_title_1?smid=A1P5BZC47DTFKM&th=1
-0.91'' I2C OLED Display: https://www.amazon.com/gp/product/B08F9F8BYB/ref=ox_sc_act_title_2?smid=A3CX4TQNUXMB0L&th=1
-Keyboard Cap Stabilizer for Cherry MX Switch: https://www.amazon.com/gp/product/B0BDZS7RZQ/ref=ox_sc_act_title_3?smid=A3JHFJSZL0PRU6&psc=1
-1N4148W: https://nl.mouser.com/nl/ProductDetail/Diotec-Semiconductor/1N4148W?qs=OlC7AqGiEDmsbkbAeXQtXg%3D%3D
-raspberry pi pico: https://nl.mouser.com/nl/ProductDetail/Raspberry-Pi/SC0915?qs=T%252BzbugeAwjgnLi4azxXVFA%3D%3D
-cherry mx buttons: https://nl.mouser.com/nl/ProductDetail/CHERRY/G99-0742?qs=94CH1SeFPDb23DeBDsneww%3D%3D
-
+[Bekijk de BOM](docs/BOM.csv)
 ## img
 
 <img width="1265" height="842" alt="Screenshot 2026-08-21 111102" src="https://github.com/user-attachments/assets/75ceb4da-b1b7-494b-9024-9493e54bd323" />
